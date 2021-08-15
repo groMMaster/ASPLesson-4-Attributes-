@@ -1,0 +1,43 @@
+﻿@using ASPLesson.Domain.Entity
+@model List<User>
+@{
+    ViewData["Title"] = "Главная";
+}
+
+<div class="card">
+    @foreach (var item in Model)
+    {
+        <p class="card_text">@item.Name - @item.Age</p>
+    }
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<div class="card">
+    @foreach (var item in Model)
+    {
+        <p class="card_text">@item.Name - @item.Age</p>
+    }
+</div>*@
+
+@*Вывод данных внутри самой View*@
+@*<div class="card">
+    @for (int i = 0; i < 10; i++)
+    {
+        <p class="card_text">@i</p>
+    }
+</div>*@

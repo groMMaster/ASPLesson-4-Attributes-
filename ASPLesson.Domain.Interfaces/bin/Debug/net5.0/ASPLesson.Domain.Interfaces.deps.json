@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ASPLesson.Domain.Interfaces/1.0.0": {
+        "dependencies": {
+          "ASPLesson.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ASPLesson.Domain.Interfaces.dll": {}
+        }
+      },
+      "ASPLesson.Domain/1.0.0": {
+        "runtime": {
+          "ASPLesson.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPLesson.Domain.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ASPLesson.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

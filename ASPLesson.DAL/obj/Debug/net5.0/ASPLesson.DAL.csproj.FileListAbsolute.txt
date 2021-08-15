@@ -1,0 +1,17 @@
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.DAL.deps.json
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.DAL.dll
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ref\ASPLesson.DAL.dll
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.DAL.pdb
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.dll
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.pdb
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.csproj.AssemblyReference.cache
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.AssemblyInfoInputs.cache
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.AssemblyInfo.cs
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.csproj.CopyComplete
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.dll
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ref\ASPLesson.DAL.dll
+D:\Projects\ASPLesson\ASPLesson.DAL\obj\Debug\net5.0\ASPLesson.DAL.pdb
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.DAL\bin\Debug\net5.0\ASPLesson.Domain.pdb

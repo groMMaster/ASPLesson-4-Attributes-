@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Расчёт внутри View";
+}
+
+@foreach (var language in ViewBag.ProgrammingLanguages)
+{
+    <p>@language</p>
+}
+
+@foreach (var language2 in ViewData)
+{
+    <p>@language2</p>
+}

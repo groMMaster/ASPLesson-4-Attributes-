@@ -1,0 +1,15 @@
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.deps.json
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\bin\Debug\net5.0\ref\ASPLesson.Domain.Interfaces.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.AssemblyInfoInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.AssemblyInfo.cs
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ref\ASPLesson.Domain.Interfaces.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\bin\Debug\net5.0\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\bin\Debug\net5.0\ASPLesson.Domain.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.csproj.AssemblyReference.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.Interfaces\obj\Debug\net5.0\ASPLesson.Domain.Interfaces.csproj.CopyComplete

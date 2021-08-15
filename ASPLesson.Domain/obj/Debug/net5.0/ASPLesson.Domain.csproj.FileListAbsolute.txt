@@ -1,0 +1,11 @@
+D:\Projects\ASPLesson\ASPLesson.Domain\bin\Debug\net5.0\ASPLesson.Domain.deps.json
+D:\Projects\ASPLesson\ASPLesson.Domain\bin\Debug\net5.0\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.Domain\bin\Debug\net5.0\ref\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.Domain\bin\Debug\net5.0\ASPLesson.Domain.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ASPLesson.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ASPLesson.Domain.AssemblyInfoInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ASPLesson.Domain.AssemblyInfo.cs
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ASPLesson.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ref\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.Domain\obj\Debug\net5.0\ASPLesson.Domain.pdb

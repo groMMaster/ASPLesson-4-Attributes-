@@ -1,0 +1,15 @@
+﻿@using ASPLesson.Domain.Entity
+@model IEnumerable<User>
+@{
+    ViewData["Title"] = "GetAllUsers";
+}
+
+<div class="card col-md-12">
+    <ul>
+        @foreach (var user in Model)
+        {
+             <li>@user.Name - @user.Age</li>   
+        }
+    </ul>
+</div>
+

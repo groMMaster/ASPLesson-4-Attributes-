@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Services\\ASPLesson.Domain.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Interfaces\\ASPLesson.Domain.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Interfaces\\ASPLesson.Domain.Interfaces.csproj",
+        "projectName": "ASPLesson.Domain.Interfaces",
+        "projectPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Interfaces\\ASPLesson.Domain.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\leowa\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leowa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projects\\ASPLesson\\ASPLesson.Domain\\ASPLesson.Domain.csproj": {
+                "projectPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain\\ASPLesson.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Services\\ASPLesson.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Services\\ASPLesson.Domain.Services.csproj",
+        "projectName": "ASPLesson.Domain.Services",
+        "projectPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Services\\ASPLesson.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\leowa\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leowa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Interfaces\\ASPLesson.Domain.Interfaces.csproj": {
+                "projectPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain.Interfaces\\ASPLesson.Domain.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\ASPLesson\\ASPLesson.Domain\\ASPLesson.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\ASPLesson\\ASPLesson.Domain\\ASPLesson.Domain.csproj",
+        "projectName": "ASPLesson.Domain",
+        "projectPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain\\ASPLesson.Domain.csproj",
+        "packagesPath": "C:\\Users\\leowa\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\ASPLesson\\ASPLesson.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leowa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

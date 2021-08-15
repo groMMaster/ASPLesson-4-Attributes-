@@ -1,0 +1,12 @@
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\bin\Debug\net5.0\ASPLesson.Domain.ViewModels.deps.json
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\bin\Debug\net5.0\ASPLesson.Domain.ViewModels.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\bin\Debug\net5.0\ref\ASPLesson.Domain.ViewModels.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\bin\Debug\net5.0\ASPLesson.Domain.ViewModels.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.AssemblyInfoInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.AssemblyInfo.cs
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.csproj.CoreCompileInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ref\ASPLesson.Domain.ViewModels.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.ViewModels\obj\Debug\net5.0\ASPLesson.Domain.ViewModels.csproj.AssemblyReference.cache

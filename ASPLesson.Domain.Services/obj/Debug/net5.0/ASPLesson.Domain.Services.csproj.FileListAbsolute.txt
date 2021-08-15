@@ -1,0 +1,17 @@
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.Services.deps.json
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.Services.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ref\ASPLesson.Domain.Services.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.Services.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.Interfaces.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\bin\Debug\net5.0\ASPLesson.Domain.pdb
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.csproj.AssemblyReference.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.AssemblyInfoInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.AssemblyInfo.cs
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.csproj.CoreCompileInputs.cache
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.csproj.CopyComplete
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ref\ASPLesson.Domain.Services.dll
+D:\Projects\ASPLesson\ASPLesson.Domain.Services\obj\Debug\net5.0\ASPLesson.Domain.Services.pdb

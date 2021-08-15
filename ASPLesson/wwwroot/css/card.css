@@ -1,0 +1,11 @@
+﻿.card {
+    border-color: blue;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 2px black;
+}
+
+.card_text {
+    font-size: 30px;
+    font-family: 'Comic Sans MS';
+    text-align: center;
+}
